@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=eef3f9&height=200&section=header&text=flyahn06&fontSize=70&animation=fadeIn&fontColor=000000"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=eef3f9&height=200&section=header&text=flyahn06&fontSize=70&animation=fadeIn&fontColor=000000"/>
 </p>
 
 [![flyahn06's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyahn06&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,3 +14,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a></h3>
 ## Hello, world! 는 출력할 줄 아는 것들
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white"/>
+
+<p align=center>
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=C3E5AE&height=200&section=footer&fontSize=70&animation=fadeIn&fontColor=000000"/>
+</p>
