@@ -1,17 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=eef3f9&height=200&section=header&text=flyahn06&fontSize=70&animation=fadeIn&fontColor=000000"/>
+<h1 align="center">flyahn06</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+</p>
 
-[![flyahn06's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyahn06&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyahn06)](https://github.com/metleeha)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="inline"></img>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="inline"></img>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></img>
+</p>
 
-
-## 잘 쓰는 것들
-<img src="https://img.shields.io/badge/Python-FCD21C?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySql-000000?style=flat-square&logo=MySql&logoColor=white"/></a></h3>
-## 대충 쓰는 것들
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a></h3>
-<img src="https://img.shields.io/badge/Java-bb0900?style=flat-square&logo=Java&logoColor=white"/></a></h3>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white"/>
-
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=C3E5AE&height=200&section=footer&fontSize=70&animation=fadeIn&fontColor=000000"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyahn06"></img>
+</p>
