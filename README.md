@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a></h3>
 <img src="https://img.shields.io/badge/Java-bb0900?style=flat-square&logo=Java&logoColor=white"/></a></h3>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white"/>
-## Hello, world! 는 출력할 줄 아는 것들
-흐트믈과 자스 등
+
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=C3E5AE&height=200&section=footer&fontSize=70&animation=fadeIn&fontColor=000000"/>
